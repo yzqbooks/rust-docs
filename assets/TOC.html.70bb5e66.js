@@ -1,0 +1,1 @@
+const e={key:"v-b302eda0",path:"/RustPrimer/TOC.html",title:"\u76EE\u5F55",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:2.77,words:830},filePathRelative:"RustPrimer/TOC.md"};export{e as data};

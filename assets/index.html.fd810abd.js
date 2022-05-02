@@ -1,0 +1,1 @@
+const e={key:"v-43418788",path:"/RustPrimer/action/json_data/",title:"Rust json\u5904\u7406",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:2.38,words:713},filePathRelative:"RustPrimer/action/json_data/readme.md"};export{e as data};

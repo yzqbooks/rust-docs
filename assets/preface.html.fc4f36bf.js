@@ -1,0 +1,1 @@
+const e={key:"v-dd269104",path:"/RustPrimer/ffi/preface.html",title:"FFI",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.99,words:297},filePathRelative:"RustPrimer/ffi/preface.md"};export{e as data};

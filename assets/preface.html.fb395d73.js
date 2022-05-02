@@ -1,0 +1,1 @@
+const e={key:"v-718c7f4c",path:"/RustPrimer/install/preface.html",title:"\u5B89\u88C5Rust",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.08,words:24},filePathRelative:"RustPrimer/install/preface.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-e61e0fc0",path:"/RustPrimer/trait/",title:"trait",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:0,words:1},filePathRelative:"RustPrimer/trait/README.md"};export{t as data};
