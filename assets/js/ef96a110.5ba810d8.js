@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrust_docs=self.webpackChunkrust_docs||[]).push([[8797],{9963:function(s){s.exports=JSON.parse('{"permalink":"/rust-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

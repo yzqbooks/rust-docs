@@ -1,1 +1,0 @@
-const e={key:"v-624e7506",path:"/RustPrimer/error-handling/",title:"error-handling",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:2},filePathRelative:"RustPrimer/error-handling/README.md"};export{e as data};

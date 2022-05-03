@@ -1,1 +1,0 @@
-const e={key:"v-7ed71de3",path:"/RustPrimer/ownership-system/",title:"ownership-system",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:2},filePathRelative:"RustPrimer/ownership-system/README.md"};export{e as data};

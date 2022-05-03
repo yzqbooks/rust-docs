@@ -1,1 +1,0 @@
-const e={key:"v-a45a1d00",path:"/RustPrimer/generic/exercise/",title:"README",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:3},filePathRelative:"RustPrimer/generic/exercise/README.md"};export{e as data};

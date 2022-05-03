@@ -1,1 +1,0 @@
-const e={key:"v-fd17ce12",path:"/RustPrimer/testing/preface.html",title:"\u6D4B\u8BD5\u4E0E\u8BC4\u6D4B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.08,words:23},filePathRelative:"RustPrimer/testing/preface.md"};export{e as data};

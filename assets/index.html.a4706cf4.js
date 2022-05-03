@@ -1,1 +1,0 @@
-const e={key:"v-27ee7dd2",path:"/RustPrimer/unsafe-rawpointer/",title:"unsafe-rawpointer",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:2},filePathRelative:"RustPrimer/unsafe-rawpointer/README.md"};export{e as data};

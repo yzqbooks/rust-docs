@@ -1,1 +1,0 @@
-import{a as e,o as r,b as t,e as a}from"./app.a489c551.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const s={},_={id:"marker",tabindex:"-1"},c=t("a",{class:"header-anchor",href:"#marker","aria-hidden":"true"},"#",-1),n=a(" marker"),d=[c,n];function i(h,m){return r(),e("h1",_,d)}var x=o(s,[["render",i],["__file","index.html.vue"]]);export{x as default};

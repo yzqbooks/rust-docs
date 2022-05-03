@@ -1,1 +1,0 @@
-const e={key:"v-4fb245d0",path:"/RustPrimer/cargo-detailed-cfg/",title:"cargo-detailed-cfg",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:3},filePathRelative:"RustPrimer/cargo-detailed-cfg/README.md"};export{e as data};

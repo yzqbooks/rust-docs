@@ -1,1 +1,0 @@
-const t={key:"v-40c37a4e",path:"/RustPrimer/io/output.html",title:"print! \u5B8F",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:1.09,words:326},filePathRelative:"RustPrimer/io/output.md"};export{t as data};

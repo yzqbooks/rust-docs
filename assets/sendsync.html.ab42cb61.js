@@ -1,1 +1,0 @@
-const e={key:"v-18d53180",path:"/RustPrimer/marker/sendsync.html",title:"Send \u548C Sync",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:2.56,words:769},filePathRelative:"RustPrimer/marker/sendsync.md"};export{e as data};

@@ -1,1 +1,0 @@
-import{a as e,o,b as t,e as r}from"./app.a489c551.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const n={},s={id:"intoborrow",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#intoborrow","aria-hidden":"true"},"#",-1),c=r(" intoborrow"),i=[_,c];function d(h,f){return o(),e("h1",s,i)}var x=a(n,[["render",d],["__file","index.html.vue"]]);export{x as default};

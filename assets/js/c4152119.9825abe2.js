@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrust_docs=self.webpackChunkrust_docs||[]).push([[19],{7549:function(s){s.exports=JSON.parse('{"allTagsPath":"/rust-docs/blog/tags","name":"hello","count":2,"permalink":"/rust-docs/blog/tags/hello"}')}}]);

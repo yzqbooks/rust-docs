@@ -1,1 +1,0 @@
-const t={key:"v-6eae9dc0",path:"/RustPrimer/data-structure/",title:"data-structure",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651516778e3,updatedTime:1651516778e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.01,words:2},filePathRelative:"RustPrimer/data-structure/README.md"};export{t as data};
